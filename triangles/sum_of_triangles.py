@@ -15,7 +15,5 @@ def triangles(n):
     return t
 
 
-# print(triangles(2309))
-
 if __name__ == '__main__':
     print(triangles(int(sys.argv[1])))
